@@ -1,21 +1,17 @@
-MIT License
+RAI Institute Research License
+(2026-02-05)
 
-Copyright (c) 2026 Robotics and AI Institute
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+©2026 Robotics and AI Institute LLC (“RAI Institute”)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Redistribution and use of data, datasets, annotations, documentation, code, scripts, or tools provided by RAI Institute under this License (the “Licensed Materials”), with or without modification, is permitted provided that the following conditions are met:
+    • Redistributions of Licensed Materials in human readable form must retain the copyright notice included with the Licensed Materials, this list of conditions and the following disclaimer.
+    • Redistributions of Licensed Materials in binary or other non-human readable form must reproduce the copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  
+    • Modified versions of the Licensed Materials must be conspicuously marked as such.
+    • The Licensed Materials may only be used for non-commercial research purposes.  For profit enterprises may use the Licensed Materials, subject to this limitation.  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+THE LICENSED MATERIALS ARE PROVIDED BY RAI INSTITUTE AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, TITLE, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL RAI INSTITUTE OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, DAMAGES ARISING OUT OF CLAIMS OF INTELLECTUAL PROPERTY RIGHTS INFRINGEMENT; PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The Licensed Materials are provided for research purposes only and are not designed or authorized for commercial use. Please be aware that the Licensed Materials could be missing certain features and functions and contain bugs and errors. There are no plans to provide maintenance or support for the Licensed Materials.
+
+The Licensed Materials may not be used or modified in whole or in part (i) to engage in any surveillance‑related activities, including research and development intended to enable monitoring, tracking, or detection of persons or activities, (ii) for biometric processing, (iii) to attempt to identify, re-identify or link any individual to biometric data contained in or inferred from the Licensed Materials, (iv) in any manner that infringes, misappropriates, or otherwise violates any third-party rights, including intellectual property, privacy, or publicity rights, (v) in any manner that violates any applicable law or regulations, including without limitation export control, sanctions or privacy or data protection laws or (vi) in safety-critical applications where failure could result in death, personal injury, or severe property or environmental damage.
