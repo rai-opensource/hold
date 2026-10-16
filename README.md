@@ -37,7 +37,7 @@ Then download the dataset by cloning this repository:
 git clone https://github.com/rai-opensource/hold.git
 ```
 
-We recommend using [Blender](https://www.blender.org/) to visually inspect the BVH animations. A Blender plugin for visualizing the G1-retargeted trajectories is currently under development.
+We recommend using [Blender](https://www.blender.org/) to visually inspect the BVH animations. To visualize the G1-retargeted trajectories, use the simple [MuJoCo](https://mujoco.org/)-based viewer described in [docs/g1.md](docs/g1.md).
 
 ## Research using HOLD
 
